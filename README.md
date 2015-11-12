@@ -1,4 +1,5 @@
-My Awesome Book
+精通CSS读书笔记
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这是精通CSS的读书笔记。
+一直都初步了解CSS，也仿照一些页面进行了CSS的实现，仍然感觉无法得心应手的运用，希望这本书能够带给我不同的理解。
